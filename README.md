@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About me
+I'm a beginner java developer
 
 Languages and Tools
 
