@@ -1,4 +1,4 @@
-## Hi there ☕
+## Hi there, my name is Stepan ☕
 
-## I'm a beginner java developer. 
+# I'm a beginner java backend developer & NNSU student. 
 
