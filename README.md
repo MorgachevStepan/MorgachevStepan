@@ -3,4 +3,4 @@
 </div>
 
 # Hi there, my name is Stepan ☕️
-## I'm a beginner Java backend developer and a student at NNSU.
+## I'm a Java backend developer and a student at NNSU.
